@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>a</title>
+    <url>/posts/a/</url>
+    <content><![CDATA[<p>Hi this is my shogun blog</p>
+]]></content>
+      <tags>
+        <tag>machine learning</tag>
+        <tag>shogun</tag>
+        <tag>open-source</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>b</title>
+    <url>/posts/b/</url>
+    <content><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie erat id libero laoreet rutrum. Etiam purus sem, ultrices nec velit vitae, cursus venenatis ligula. Aenean non lorem ac lorem ullamcorper ornare. Sed sodales sit amet urna non maximus. Nullam turpis tortor, blandit pretium faucibus id, ultricies vitae dui. Proin velit diam, mollis vitae elit ut, dignissim dapibus libero. Donec id consequat mauris. Ut varius blandit felis eu consequat. Quisque tristique, diam non fermentum porta, turpis nibh pharetra odio, nec vehicula dolor lectus vel mi. Donec quis aliquet est. Vestibulum ac hendrerit sem, vel tempor nulla. Integer non lacus dictum, commodo nibh quis, luctus justo.</p>
+<a id="more"></a>
+
+<p>You need to put <code>\\</code> for mathjax<br>When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are<br>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<p>Aenean dictum urna a enim molestie, id tempor elit congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam non tortor urna. Morbi purus ante, fermentum at mi vitae, condimentum tristique nisi. Mauris auctor vulputate magna, vel porta elit ornare eu. Proin libero mi, ullamcorper nec leo sit amet, dapibus eleifend enim. Aliquam lobortis libero et purus tristique placerat. Suspendisse porttitor tortor non tristique condimentum.</p>
+<p>Fusce malesuada nibh in justo cursus, non scelerisque nunc rutrum. Curabitur convallis semper nisi id interdum. Donec sit amet auctor ligula. Nunc elementum magna finibus, elementum velit eget, lobortis risus. Curabitur ornare nulla libero, sed rhoncus nisl ullamcorper ac. Etiam ut mauris lacus. Ut fringilla vel nibh id gravida. Sed cursus a felis ac interdum. Proin pellentesque augue quam, a finibus velit varius nec. Praesent egestas condimentum luctus. Phasellus sem lectus, dignissim ac efficitur scelerisque, aliquam nec velit. Sed a tortor non diam hendrerit blandit. Fusce euismod massa arcu, at auctor velit maximus nec. Nulla tristique faucibus orci, et lacinia neque congue et. Suspendisse convallis diam quis faucibus scelerisque.</p>
+<p>Praesent molestie luctus auctor. Nam non laoreet orci. Duis eget enim nunc. Duis at scelerisque ex, sed ultricies mi. Aenean nec mattis lectus. Ut arcu arcu, euismod sit amet nunc sit amet, vestibulum pharetra purus. In tincidunt ipsum odio, eget accumsan odio blandit vitae. Proin ultrices lectus arcu, at laoreet augue maximus a.</p>
+<p>Nunc sagittis eu eros id ultricies. Nullam id nisi eget ex placerat molestie non ac erat. Duis at volutpat ipsum, eleifend fermentum sem. Pellentesque id sollicitudin orci, sed dignissim dolor. In eget scelerisque ligula, eget molestie nulla. Cras porta neque mi, non tempor purus consequat eget. Sed nulla purus, ornare a justo vel, rutrum dignissim nulla. Ut lacinia egestas mi, vitae pulvinar quam tempus vitae. </p>
+]]></content>
+      <categories>
+        <category>Shogun</category>
+        <category>ml</category>
+        <category>Machine Learning</category>
+      </categories>
+      <tags>
+        <tag>machine learning</tag>
+        <tag>shogun</tag>
+        <tag>open-source</tag>
+        <tag>c++</tag>
+      </tags>
+  </entry>
+</search>
